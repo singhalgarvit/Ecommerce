@@ -28,7 +28,7 @@
                  password:userData.password
              })   
              const token=jwt.sign(userData,jwt_secret)
-             res.status(200).send(token) 
+             res.status(200).json({token:token,email:userData.email}) 
          }
      }
      catch(err){

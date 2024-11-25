@@ -16,7 +16,7 @@
      const userData=req.body;
      if(req.savedPass == userData.password){
          const token=jwt.sign(userData,jwt_secret);
-         res.status(200).send(token)
+         res.status(200).json({token:token,email:userData.email})
      }
      else{
          res.status(401).send("Password is incorrect");

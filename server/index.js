@@ -13,7 +13,9 @@ connectDB();
 const auth=require("./Auth")
 app.use('/auth',auth);
 
-
+app.get("/",(req,res)=>{
+    res.send("This is the response");
+})
 
 const port=process.env.PORT;
 

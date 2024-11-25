@@ -28,7 +28,7 @@
                  password:adminData.password
              })   
              const token=jwt.sign(adminData,jwt_secret)
-             res.status(200).send(token) 
+             res.status(200).json({token:token,email:adminData.email})
          }
      }
      catch(err){
