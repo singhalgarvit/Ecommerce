@@ -18,7 +18,7 @@
      try{
          const userCheck=await User.findOne({email:userData.email});   //check if user exist for this email
          if(userCheck){
-            res.status(409).send("User with this Email is Already exist Please Login to continue")
+            res.status(409).json("User with this Email is Already exist Please Login to continue")
          }
          else{
                  const user = await User.create({                    //save the userData to the User collection in database
@@ -28,11 +28,11 @@
                  password:userData.password
              })   
              const token=jwt.sign(userData,jwt_secret)
-             res.status(200).json({token:token,email:userData.email}) 
+             res.status(200).json({token:token,name:userData.name}) 
          }
      }
      catch(err){
-        res.status(500).send("Something went Wrong")
+        res.status(500).json("Something went Wrong")
      }
  })
  

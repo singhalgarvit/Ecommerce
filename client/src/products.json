@@ -1,0 +1,162 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Men's Shirt",
+        "category": "Man",
+        "product_img": "https://www.jiomart.com/images/product/original/rvga52tqub/baleshwar-man-s-solid-slim-fit-casual-shirt-for-men-shirts-maroon-xxl-product-images-rvga52tqub-0-202303170527.jpg?im=Resize=(500,630)",
+        "price": 399,
+        "description": "White solid opaque formal shirt, has a spread collar, button placket, 1 patch pocket, short regular sleeves, curved hem"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Women's Dress",
+        "category": "Woman",
+        "product_img": "https://www.jiomart.com/images/product/original/rvqsmsewrh/fabflee-women-printed-georgette-a-line-maxi-dress-product-images-rvqsmsewrh-0-202303140541.jpg?im=Resize=(330,410)",
+        "price": 599,
+        "description": "Floral print casual summer dress with round neck and short sleeves"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Kid's T-shirt",
+        "category": "Kids",
+        "product_img": "https://www.jiomart.com/images/product/original/rvtscqboa9/hellcat-boys-multicolor-cotton-blend-printed-pack-of-3-t-shirt-product-images-rvtscqboa9-0-202207091422.jpg?im=Resize=(330,410)",
+        "price": 199,
+        "description": "Bright yellow cotton T-shirt with a cartoon graphic, round neck, and short sleeves"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Men's Jeans",
+        "category": "Man",
+        "product_img": "https://www.jiomart.com/images/product/original/rvtlbkf8da/bellibeeindia-denim-plain-jogger-jeans-for-men-grey-product-images-rvtlbkf8da-0-202304261310.jpg?im=Resize=(330,410)",
+        "price": 799,
+        "description": "Blue slim-fit denim jeans with 5 pockets and a zip closure"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Women's Kurti",
+        "category": "Woman",
+        "product_img": "https://www.jiomart.com/images/product/original/rvqlo2ix1m/bib-and-tucker-bushtiq-woman-kurti-product-images-rvqlo2ix1m-0-202311181917.png?im=Resize=(330,410)",
+        "price": 499,
+        "description": "Elegant pink printed Kurti with a round neck and 3/4th sleeves"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Kid's Shorts",
+        "category": "Kids",
+        "product_img": "https://www.jiomart.com/images/product/original/rvpzwske6f/my-milestones-kids-shorts-for-boys-product-images-rvpzwske6f-0-202310290039.jpg?im=Resize=(330,410)",
+        "price": 299,
+        "description": "Comfortable blue cotton shorts with elastic waistband and side pockets"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Men's Hoodie",
+        "category": "Man",
+        "product_img": "https://www.jiomart.com/images/product/original/rvvmchzxvm/faltu-co-faltu-co-cotton-printed-ny-mens-s-hoodie-hooded-hoodie-jacket-with-zip-amp-pockets-sweatshirts-for-men-product-images-rvvmchzxvm-0-202312011412.jpg?im=Resize=(330,410)",
+        "price": 999,
+        "description": "Grey hooded sweatshirt with kangaroo pockets and ribbed hem"
+    },
+    {
+        "product_id": 8,
+        "product_name": "Women's Saree",
+        "category": "Woman",
+        "product_img": "https://www.jiomart.com/images/product/original/rv0snqop8d/trinitifab-saree-sari-sadi-women-s-saree-silk-saree-cotton-saree-designer-saree-bridal-saree-party-wear-saree-casual-saree-ethnic-saree-traditional-saree-printed-saree-fancy-saree-stylish-saree-black-product-images-rv0snqop8d-0-202407231610.jpg?im=Resize=(330,410)",
+        "price": 1299,
+        "description": "Silk saree with golden border and floral patterns"
+    },
+    {
+        "product_id": 9,
+        "product_name": "Kid's Jacket",
+        "category": "Kids",
+        "product_img": "https://www.jiomart.com/images/product/original/rvmgvtbsp8/nino-bambino-unisex-kid-puffer-jacket-for-boys-girls-red-product-images-rvmgvtbsp8-0-202312221829.jpg?im=Resize=(330,410)",
+        "price": 599,
+        "description": "Warm puffer jacket with a hood and zipper closure"
+    },
+    {
+        "product_id": 10,
+        "product_name": "Men's Watch",
+        "category": "Man",
+        "product_img": "https://www.jiomart.com/images/product/original/rveyfcdmfj/hmt-fashion-suare-dial-analog-brown-dial-men-s-watch-hmtf1130br-product-images-rveyfcdmfj-0-202401032024.jpg?im=Resize=(330,410)",
+        "price": 1499,
+        "description": "Stainless steel analog watch with black dial"
+    },
+    {
+        "product_id": 11,
+        "product_name": "Women's Handbag",
+        "category": "Woman",
+        "product_img": "https://www.jiomart.com/images/product/original/rvjshhbsbs/ll-leather-land-designer-bags-women-s-handbag-tan-product-images-rvjshhbsbs-0-202309251127.jpg?im=Resize=(330,410)",
+        "price": 899,
+        "description": "Leather handbag with multiple compartments and adjustable straps"
+    },
+    {
+        "product_id": 12,
+        "product_name": "Kid's Sneakers",
+        "category": "Kids",
+        "product_img": "https://www.jiomart.com/images/product/original/rvvo1fu2w4/equila-high-neck-sneakers-for-kids-red-product-images-rvvo1fu2w4-0-202402250023.jpg?im=Resize=(330,410)",
+        "price": 799,
+        "description": "Durable sneakers with velcro straps and cushioned sole"
+    },
+    {
+        "product_id": 13,
+        "product_name": "Men's T-shirt",
+        "category": "Man",
+        "product_img": "https://www.jiomart.com/images/product/original/rvu93lngzg/kariby-boys-cotton-half-sleeve-t-shirt-round-neck-all-over-printed-design-black-5-to-6-yr-product-images-rvu93lngzg-0-202404241250.jpg?im=Resize=(330,410)",
+        "price": 299,
+        "description": "Classic black T-shirt with a crew neck and short sleeves"
+    },
+    {
+        "product_id": 14,
+        "product_name": "Women's Top",
+        "category": "Woman",
+        "product_img": "https://www.jiomart.com/images/product/original/rvgytg67ml/kariby-girls-cotton-half-sleeve-t-shirt-round-neck-chest-printed-design-green-5-to-6-yr-product-images-rvgytg67ml-0-202404241302.jpg?im=Resize=(330,410)",
+        "price": 349,
+        "description": "Lightweight chiffon top with ruffles and long sleeves"
+    },
+    {
+        "product_id": 15,
+        "product_name": "Kid's Dress",
+        "category": "Kids",
+        "product_img": "https://www.jiomart.com/images/product/original/rvqzorerff/kaarigari-girls-orange-below-knee-casual-dress-dresses-kids-wear-girls-dress-kids-dress-frock-frock-girls-girls-frock-dresses-for-girls-kids-girl-dress-frock-for-girls-product-images-rvqzorerff-0-202402082056.jpg?im=Resize=(330,410)",
+        "price": 399,
+        "description": "Cute pink dress with a bow and flared skirt"
+    },
+    {
+        "product_id": 16,
+        "product_name": "Men's Shorts",
+        "category": "Man",
+        "product_img": "https://www.jiomart.com/images/product/original/rvlmj3cssw/kariby-girls-fancy-cotton-short-pants-with-pockets-black-13-to-14-yr-product-images-rvlmj3cssw-0-202405041605.jpg?im=Resize=(330,410)",
+        "price": 399,
+        "description": "Casual cotton shorts with drawstring closure and side pockets"
+    },
+    {
+        "product_id": 17,
+        "product_name": "Women's Earrings",
+        "category": "Woman",
+        "product_img": "https://www.jiomart.com/images/product/original/rvlwripayt/vibrance-oxidize-earring-rough-polish-jhumka-silver-party-wear-women-s-earrings-girls-product-images-rvlwripayt-0-202407121132.jpg?im=Resize=(330,410)",
+        "price": 249,
+        "description": "Elegant pearl drop earrings with gold plating"
+    },
+    {
+        "product_id": 18,
+        "product_name": "Kid's Cap",
+        "category": "Kids",
+        "product_img": "https://www.jiomart.com/images/product/original/rvpjxvioom/vritraz-stylish-kids-cap-with-pirate-print-for-girls-and-boys-black-product-images-rvpjxvioom-0-202405101932.jpg?im=Resize=(330,410)",
+        "price": 199,
+        "description": "Stylish cotton cap with adjustable strap"
+    },
+    {
+        "product_id": 19,
+        "product_name": "Men's Jacket",
+        "category": "Man",
+        "product_img": "https://www.jiomart.com/images/product/original/rvitlqhtzo/tvs-racing-challenger-3-layer-riding-jacket-for-men-all-weather-adaptability-ce-level-2-armour-protection-premium-bike-jackets-for-bikers-white-l-product-images-rvitlqhtzo-0-202401200824.jpg?im=Resize=(330,410)",
+        "price": 1499,
+        "description": "Black leather jacket with zipper closure and multiple pockets"
+    },
+    {
+        "product_id": 20,
+        "product_name": "Women's Sandals",
+        "category": "Woman",
+        "product_img": "https://www.jiomart.com/images/product/original/rvth052shs/paragon-k7015l-women-s-sandals-casual-sandals-for-everyday-wear-stylish-comfortable-durable-product-images-rvth052shs-0-202309281629.jpg?im=Resize=(330,410)",
+        "price": 599,
+        "description": "Comfortable flat sandals with embellished straps"
+    }
+]

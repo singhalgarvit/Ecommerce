@@ -1,0 +1,32 @@
+nav{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 0px 5px black;
+    border-radius: 15px;
+}
+nav img{
+    width: 100px;
+}
+.buttonGroup{
+    margin: 20px;
+}
+.productContainer{
+    display: flex;
+    margin: 20px;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+.buttonGroup span{
+    width: 120px;
+    background-color: rgb(35, 35, 35);
+    color: white;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding:5px;
+    width:20px;
+    height:20px;
+}
