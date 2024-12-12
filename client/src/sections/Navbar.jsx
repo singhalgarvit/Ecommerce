@@ -26,7 +26,7 @@ function Navbar() {
             <Button active={(category=="Man")} value="Man" onclick={(e)=>setCategory("Man")}/>
             <Button active={(category=="Woman")} value="Woman" onclick={(e)=>setCategory("Woman")}/>
             <Button active={(category=="Kids")} value="Kids" onclick={(e)=>setCategory("Kids")}/>
-            <Button value={`Cart (${cart.length})`}/>
+            <Button value={`Cart (${cart.length})`} onclick={(e)=>navigate("/cart")}/>
             {!username && <Button value="Login" onclick={(e)=>navigate("/login")}/>}
             {username && 
             <>

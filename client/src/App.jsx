@@ -5,6 +5,7 @@ import Login from './pages/Login';
 import { MyContext } from "./context";
 import { useState } from 'react';
 import Signup from './pages/Signup';
+import Cart from './pages/Cart';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path='/' element={<Home/>}/>
           <Route path='/login' element={<Login/>}/>
           <Route path='/signup' element={<Signup/>}/>
+          <Route path='/cart' element={<Cart/>}/>
           <Route path='/*' element={<Navigate to="/"/>}/>
         </Routes>
       </MyContext.Provider>
