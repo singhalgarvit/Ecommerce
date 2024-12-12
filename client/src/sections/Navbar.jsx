@@ -6,7 +6,7 @@ import {MyContext} from '../context'
 import { Navigate, useNavigate } from 'react-router-dom'
 
 function Navbar() {
-  const {category,setCategory,username,setUsername,jwtToken,setJwtToken} = useContext(MyContext);
+  const {category,setCategory,username,setUsername,jwtToken,setJwtToken,cart,setCart} = useContext(MyContext);
   const navigate = useNavigate();
 
   const logout = ()=>{
@@ -26,11 +26,12 @@ function Navbar() {
             <Button active={(category=="Man")} value="Man" onclick={(e)=>setCategory("Man")}/>
             <Button active={(category=="Woman")} value="Woman" onclick={(e)=>setCategory("Woman")}/>
             <Button active={(category=="Kids")} value="Kids" onclick={(e)=>setCategory("Kids")}/>
+            <Button value={`Cart (${cart.length})`}/>
             {!username && <Button value="Login" onclick={(e)=>navigate("/login")}/>}
             {username && 
             <>
             <Button value="Logout" onclick={logout}/>
-            <span>{username[0]}</span>
+            <span title={username}>{username[0]}</span>
             </>
             }
         </div>

@@ -16,7 +16,7 @@ nav img{
 .productContainer{
     display: flex;
     margin: 20px;
-    justify-content: left;
+    justify-content: space-around;
     flex-wrap: wrap;
 }
 .buttonGroup span{

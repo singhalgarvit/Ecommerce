@@ -12,7 +12,7 @@ function Products() {
   return (
     <div className='productContainer'>
         {filteredList.map((value,index)=>(
-          <ProductBox key={index} name={value.product_name} img={value.product_img} price={value.price}/>
+          <ProductBox key={index} name={value.product_name} img={value.product_img} price={value.price} p_id={value.product_id}/>
         ))}
     </div>
   )

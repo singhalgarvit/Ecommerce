@@ -11,9 +11,10 @@ function App() {
   const [category,setCategory] = useState("Default");
   const [username,setUsername] = useState(localStorage.getItem("name"));
   const [jwtToken,setJwtToken] = useState(localStorage.getItem("token"));
+  const [cart,setCart] = useState([]);
   return (
     <div className="App">
-      <MyContext.Provider value={{ category,setCategory,username,setUsername,jwtToken,setJwtToken }}>
+      <MyContext.Provider value={{ category,setCategory,username,setUsername,jwtToken,setJwtToken,cart, setCart }}>
         <Routes>
           <Route path='/' element={<Home/>}/>
           <Route path='/login' element={<Login/>}/>
